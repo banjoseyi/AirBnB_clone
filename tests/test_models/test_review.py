@@ -1,4 +1,4 @@
-root@dd09d64a3073.28907#!/usr/bin/python3
+#!/usr/bin/python3
 """Defines unittests for models/review.py.
 
 Unittest classes:
